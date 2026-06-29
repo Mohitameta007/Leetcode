@@ -1,0 +1,36 @@
+# LeetCode Solutions
+
+This repository contains my solutions to LeetCode problems implemented in **C++**.
+
+I use this repository to:
+- Practice Data Structures and Algorithms (DSA)
+- Improve problem-solving skills
+- Prepare for coding interviews and placements
+- Track my LeetCode progress
+
+## Languages
+
+- C++
+
+## Repository Structure
+
+Each problem contains:
+- Problem Number
+- Solution in C++
+- Time Complexity
+- Space Complexity (when applicable)
+
+## Goal
+
+- Solve 500+ LeetCode problems.
+- Strengthen DSA concepts.
+- Become placement-ready.
+
+## My Profiles
+
+- **LeetCode:** https://leetcode.com/u/mohit_ameta295/
+- **GitHub:** https://github.com/Mohitameta007
+
+---
+
+⭐ If you find this repository helpful, feel free to star it.
