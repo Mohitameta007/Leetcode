@@ -34,3 +34,19 @@ Each problem contains:
 ---
 
 ⭐ If you find this repository helpful, feel free to star it.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Mohitameta007/Leetcode/tree/master/0053-maximum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Mohitameta007/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Mohitameta007/Leetcode/tree/master/0053-maximum-subarray) |
+<!---LeetCode Topics End-->
