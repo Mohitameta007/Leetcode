@@ -42,6 +42,7 @@ Each problem contains:
 | ------- |
 | [0001-two-sum](https://github.com/Mohitameta007/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Mohitameta007/Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Mohitameta007/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Mohitameta007/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Mohitameta007/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Mohitameta007/Leetcode/tree/master/0053-maximum-subarray) |
@@ -72,6 +73,7 @@ Each problem contains:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mohitameta007/Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Mohitameta007/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Mohitameta007/Leetcode/tree/master/0031-next-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohitameta007/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -101,6 +103,7 @@ Each problem contains:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mohitameta007/Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Mohitameta007/Leetcode/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/Mohitameta007/Leetcode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
