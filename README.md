@@ -54,6 +54,7 @@ Each problem contains:
 | [0229-majority-element-ii](https://github.com/Mohitameta007/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mohitameta007/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohitameta007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1331-rank-transform-of-an-array](https://github.com/Mohitameta007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohitameta007/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -89,6 +90,7 @@ Each problem contains:
 | [0073-set-matrix-zeroes](https://github.com/Mohitameta007/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/Mohitameta007/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohitameta007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1331-rank-transform-of-an-array](https://github.com/Mohitameta007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -107,6 +109,7 @@ Each problem contains:
 | [0018-4sum](https://github.com/Mohitameta007/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Mohitameta007/Leetcode/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Mohitameta007/Leetcode/tree/master/0229-majority-element-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/Mohitameta007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Counting
 |  |
 | ------- |
