@@ -114,4 +114,8 @@ Each problem contains:
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Mohitameta007/Leetcode/tree/master/0229-majority-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Mohitameta007/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
