@@ -118,4 +118,8 @@ Each problem contains:
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Mohitameta007/Leetcode/tree/master/1291-sequential-digits) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Mohitameta007/Leetcode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
