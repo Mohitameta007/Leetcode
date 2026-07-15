@@ -55,6 +55,7 @@ Each problem contains:
 | [0229-majority-element-ii](https://github.com/Mohitameta007/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mohitameta007/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohitameta007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Mohitameta007/Leetcode/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohitameta007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohitameta007/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -130,4 +131,5 @@ Each problem contains:
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohitameta007/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Mohitameta007/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/Mohitameta007/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
