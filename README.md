@@ -105,6 +105,7 @@ Each problem contains:
 | ------- |
 | [0048-rotate-image](https://github.com/Mohitameta007/Leetcode/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/Mohitameta007/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0292-nim-game](https://github.com/Mohitameta007/Leetcode/tree/master/0292-nim-game) |
 | [0633-sum-of-square-numbers](https://github.com/Mohitameta007/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mohitameta007/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mohitameta007/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -142,4 +143,12 @@ Each problem contains:
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Mohitameta007/Leetcode/tree/master/0171-excel-sheet-column-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mohitameta007/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mohitameta007/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
