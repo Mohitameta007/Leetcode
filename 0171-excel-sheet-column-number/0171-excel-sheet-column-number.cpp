@@ -5,9 +5,7 @@ public:
 
         for(int i = 0 ; i < columnTitle.size() ; i++)
         {
-            ans += columnTitle[i]-'A'+1;
-            if(i+1 != columnTitle.size()) ans *= 26;
-            else return ans;
+            ans = ans*26 + (columnTitle[i]-'A'+1);
         }
         return ans;
     }
