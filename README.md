@@ -49,6 +49,7 @@ Each problem contains:
 | [0053-maximum-subarray](https://github.com/Mohitameta007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Mohitameta007/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Mohitameta007/Leetcode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Mohitameta007/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Mohitameta007/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Mohitameta007/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohitameta007/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -107,6 +108,7 @@ Each problem contains:
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mohitameta007/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Mohitameta007/Leetcode/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Mohitameta007/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0292-nim-game](https://github.com/Mohitameta007/Leetcode/tree/master/0292-nim-game) |
 | [0633-sum-of-square-numbers](https://github.com/Mohitameta007/Leetcode/tree/master/0633-sum-of-square-numbers) |
