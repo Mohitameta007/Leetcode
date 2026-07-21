@@ -61,6 +61,7 @@ Each problem contains:
 | [0605-can-place-flowers](https://github.com/Mohitameta007/Leetcode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Mohitameta007/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Mohitameta007/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mohitameta007/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/Mohitameta007/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mohitameta007/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohitameta007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -160,6 +161,7 @@ Each problem contains:
 | [0633-sum-of-square-numbers](https://github.com/Mohitameta007/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Mohitameta007/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Mohitameta007/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mohitameta007/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mohitameta007/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mohitameta007/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Number Theory
