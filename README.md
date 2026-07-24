@@ -60,6 +60,7 @@ Each problem contains:
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohitameta007/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohitameta007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Mohitameta007/Leetcode/tree/master/0605-can-place-flowers) |
+| [0682-baseball-game](https://github.com/Mohitameta007/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Mohitameta007/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Mohitameta007/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mohitameta007/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -100,6 +101,7 @@ Each problem contains:
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mohitameta007/Leetcode/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/Mohitameta007/Leetcode/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Mohitameta007/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohitameta007/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mohitameta007/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -191,4 +193,8 @@ Each problem contains:
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Mohitameta007/Leetcode/tree/master/0605-can-place-flowers) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Mohitameta007/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
