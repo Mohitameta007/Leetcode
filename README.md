@@ -41,6 +41,7 @@ Each problem contains:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohitameta007/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mohitameta007/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Mohitameta007/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Mohitameta007/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Mohitameta007/Leetcode/tree/master/0031-next-permutation) |
@@ -78,6 +79,7 @@ Each problem contains:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mohitameta007/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Mohitameta007/Leetcode/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
@@ -170,6 +172,7 @@ Each problem contains:
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mohitameta007/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohitameta007/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohitameta007/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/Mohitameta007/Leetcode/tree/master/0410-split-array-largest-sum) |
