@@ -140,6 +140,7 @@ Each problem contains:
 | [2235-add-two-integers](https://github.com/Mohitameta007/Leetcode/tree/master/2235-add-two-integers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mohitameta007/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mohitameta007/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Mohitameta007/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mohitameta007/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mohitameta007/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mohitameta007/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -151,6 +152,7 @@ Each problem contains:
 | [0056-merge-intervals](https://github.com/Mohitameta007/Leetcode/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Mohitameta007/Leetcode/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohitameta007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Mohitameta007/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mohitameta007/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
