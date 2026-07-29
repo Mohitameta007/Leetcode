@@ -141,6 +141,7 @@ Each problem contains:
 | [0292-nim-game](https://github.com/Mohitameta007/Leetcode/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohitameta007/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Mohitameta007/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/Mohitameta007/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mohitameta007/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Mohitameta007/Leetcode/tree/master/2235-add-two-integers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mohitameta007/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -201,6 +202,7 @@ Each problem contains:
 | [0171-excel-sheet-column-number](https://github.com/Mohitameta007/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0500-keyboard-row](https://github.com/Mohitameta007/Leetcode/tree/master/0500-keyboard-row) |
 | [1021-remove-outermost-parentheses](https://github.com/Mohitameta007/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Mohitameta007/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Mohitameta007/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Brainteaser
 |  |
@@ -215,6 +217,7 @@ Each problem contains:
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Mohitameta007/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/Mohitameta007/Leetcode/tree/master/0605-can-place-flowers) |
+| [1903-largest-odd-number-in-string](https://github.com/Mohitameta007/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
