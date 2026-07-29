@@ -120,6 +120,7 @@ Each problem contains:
 | [0001-two-sum](https://github.com/Mohitameta007/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Mohitameta007/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Mohitameta007/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Mohitameta007/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Mohitameta007/Leetcode/tree/master/0229-majority-element-ii) |
 | [0500-keyboard-row](https://github.com/Mohitameta007/Leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohitameta007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -200,6 +201,7 @@ Each problem contains:
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Mohitameta007/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/Mohitameta007/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0500-keyboard-row](https://github.com/Mohitameta007/Leetcode/tree/master/0500-keyboard-row) |
 | [1021-remove-outermost-parentheses](https://github.com/Mohitameta007/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Mohitameta007/Leetcode/tree/master/1903-largest-odd-number-in-string) |
