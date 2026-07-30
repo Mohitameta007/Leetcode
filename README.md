@@ -204,6 +204,7 @@ Each problem contains:
 | [0205-isomorphic-strings](https://github.com/Mohitameta007/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0500-keyboard-row](https://github.com/Mohitameta007/Leetcode/tree/master/0500-keyboard-row) |
 | [1021-remove-outermost-parentheses](https://github.com/Mohitameta007/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitameta007/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Mohitameta007/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Mohitameta007/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Brainteaser
@@ -225,6 +226,7 @@ Each problem contains:
 | ------- |
 | [0682-baseball-game](https://github.com/Mohitameta007/Leetcode/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Mohitameta007/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitameta007/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
