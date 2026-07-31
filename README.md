@@ -125,6 +125,7 @@ Each problem contains:
 | [0500-keyboard-row](https://github.com/Mohitameta007/Leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohitameta007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohitameta007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohitameta007/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -161,12 +162,14 @@ Each problem contains:
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohitameta007/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohitameta007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohitameta007/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohitameta007/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mohitameta007/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mohitameta007/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Mohitameta007/Leetcode/tree/master/0229-majority-element-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohitameta007/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -207,6 +210,7 @@ Each problem contains:
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitameta007/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Mohitameta007/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Mohitameta007/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohitameta007/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -221,6 +225,7 @@ Each problem contains:
 | [0410-split-array-largest-sum](https://github.com/Mohitameta007/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/Mohitameta007/Leetcode/tree/master/0605-can-place-flowers) |
 | [1903-largest-odd-number-in-string](https://github.com/Mohitameta007/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohitameta007/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
