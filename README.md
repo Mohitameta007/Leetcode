@@ -86,6 +86,7 @@ Each problem contains:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mohitameta007/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Mohitameta007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Mohitameta007/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohitameta007/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -99,6 +100,7 @@ Each problem contains:
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mohitameta007/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Mohitameta007/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Mohitameta007/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Mohitameta007/Leetcode/tree/master/0031-next-permutation) |
@@ -206,6 +208,7 @@ Each problem contains:
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mohitameta007/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Mohitameta007/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0171-excel-sheet-column-number](https://github.com/Mohitameta007/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Mohitameta007/Leetcode/tree/master/0205-isomorphic-strings) |
