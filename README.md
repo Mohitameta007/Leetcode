@@ -110,6 +110,7 @@ Each problem contains:
 | [0031-next-permutation](https://github.com/Mohitameta007/Leetcode/tree/master/0031-next-permutation) |
 | [0202-happy-number](https://github.com/Mohitameta007/Leetcode/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/Mohitameta007/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mohitameta007/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohitameta007/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mohitameta007/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -195,6 +196,7 @@ Each problem contains:
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mohitameta007/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mohitameta007/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Mohitameta007/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mohitameta007/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
