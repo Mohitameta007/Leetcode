@@ -185,6 +185,7 @@ Each problem contains:
 | [0229-majority-element-ii](https://github.com/Mohitameta007/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohitameta007/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mohitameta007/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2833-furthest-point-from-origin](https://github.com/Mohitameta007/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohitameta007/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Enumeration
 |  |
@@ -234,6 +235,7 @@ Each problem contains:
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitameta007/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mohitameta007/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Mohitameta007/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2833-furthest-point-from-origin](https://github.com/Mohitameta007/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Mohitameta007/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohitameta007/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Brainteaser
