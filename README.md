@@ -108,6 +108,7 @@ Each problem contains:
 | [0018-4sum](https://github.com/Mohitameta007/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mohitameta007/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Mohitameta007/Leetcode/tree/master/0031-next-permutation) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mohitameta007/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Mohitameta007/Leetcode/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/Mohitameta007/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mohitameta007/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -126,6 +127,7 @@ Each problem contains:
 | ------- |
 | [0001-two-sum](https://github.com/Mohitameta007/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Mohitameta007/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mohitameta007/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Mohitameta007/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Mohitameta007/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Mohitameta007/Leetcode/tree/master/0229-majority-element-ii) |
@@ -197,6 +199,7 @@ Each problem contains:
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mohitameta007/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mohitameta007/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mohitameta007/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Mohitameta007/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mohitameta007/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
