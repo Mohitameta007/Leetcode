@@ -1,27 +1,18 @@
 class Solution {
 public:
-    string clearDigits(string s) {
-        stack<char> st;
-        int i = 0;
-        while(i < s.size())
+    string clearDigits(string s){
+        string ans ="";
+
+        for(int i = 0 ; i < s.size() ; i++)
         {
             if(s[i] >= '0' && s[i] <= '9')
             {
-                if(!st.empty()) st.pop();
+                if(ans.size() > 0) ans.pop_back();
             }
             else{
-                st.push(s[i]);
+                ans.push_back(s[i]);
             }
-            i++;
         }
-        
-        string ans;
-        while(!st.empty())
-        {
-            ans += st.top();
-            st.pop();
-        }
-        reverse(ans.begin() , ans.end());
 
         return ans;
         
