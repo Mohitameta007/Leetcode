@@ -123,6 +123,7 @@ Each problem contains:
 | [0682-baseball-game](https://github.com/Mohitameta007/Leetcode/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Mohitameta007/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohitameta007/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3174-clear-digits](https://github.com/Mohitameta007/Leetcode/tree/master/3174-clear-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mohitameta007/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -246,6 +247,7 @@ Each problem contains:
 | [2833-furthest-point-from-origin](https://github.com/Mohitameta007/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Mohitameta007/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohitameta007/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3174-clear-digits](https://github.com/Mohitameta007/Leetcode/tree/master/3174-clear-digits) |
 ## Brainteaser
 |  |
 | ------- |
@@ -268,6 +270,7 @@ Each problem contains:
 | [0682-baseball-game](https://github.com/Mohitameta007/Leetcode/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Mohitameta007/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitameta007/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3174-clear-digits](https://github.com/Mohitameta007/Leetcode/tree/master/3174-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
