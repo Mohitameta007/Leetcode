@@ -159,6 +159,7 @@ Each problem contains:
 | [0171-excel-sheet-column-number](https://github.com/Mohitameta007/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Mohitameta007/Leetcode/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/Mohitameta007/Leetcode/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/Mohitameta007/Leetcode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohitameta007/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Mohitameta007/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Mohitameta007/Leetcode/tree/master/0877-stone-game) |
@@ -276,6 +277,7 @@ Each problem contains:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Mohitameta007/Leetcode/tree/master/0342-power-of-four) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mohitameta007/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mohitameta007/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Heap (Priority Queue)
@@ -295,4 +297,8 @@ Each problem contains:
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohitameta007/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Mohitameta007/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
