@@ -121,6 +121,7 @@ Each problem contains:
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mohitameta007/Leetcode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/Mohitameta007/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Mohitameta007/Leetcode/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Mohitameta007/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohitameta007/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -160,6 +161,7 @@ Each problem contains:
 | [0202-happy-number](https://github.com/Mohitameta007/Leetcode/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/Mohitameta007/Leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Mohitameta007/Leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Mohitameta007/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohitameta007/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Mohitameta007/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Mohitameta007/Leetcode/tree/master/0877-stone-game) |
@@ -241,6 +243,7 @@ Each problem contains:
 | [0008-string-to-integer-atoi](https://github.com/Mohitameta007/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0171-excel-sheet-column-number](https://github.com/Mohitameta007/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Mohitameta007/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0412-fizz-buzz](https://github.com/Mohitameta007/Leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohitameta007/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Mohitameta007/Leetcode/tree/master/0500-keyboard-row) |
 | [1021-remove-outermost-parentheses](https://github.com/Mohitameta007/Leetcode/tree/master/1021-remove-outermost-parentheses) |
