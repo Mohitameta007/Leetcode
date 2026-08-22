@@ -251,6 +251,7 @@ Each problem contains:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mohitameta007/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Mohitameta007/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Mohitameta007/Leetcode/tree/master/0020-valid-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/Mohitameta007/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Mohitameta007/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/Mohitameta007/Leetcode/tree/master/0412-fizz-buzz) |
@@ -284,6 +285,7 @@ Each problem contains:
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mohitameta007/Leetcode/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Mohitameta007/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Mohitameta007/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Mohitameta007/Leetcode/tree/master/0735-asteroid-collision) |
@@ -326,4 +328,8 @@ Each problem contains:
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Mohitameta007/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mohitameta007/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
