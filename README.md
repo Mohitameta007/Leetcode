@@ -59,6 +59,7 @@ Each problem contains:
 | [0238-product-of-array-except-self](https://github.com/Mohitameta007/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Mohitameta007/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohitameta007/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Mohitameta007/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Mohitameta007/Leetcode/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohitameta007/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohitameta007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -146,6 +147,7 @@ Each problem contains:
 | [0229-majority-element-ii](https://github.com/Mohitameta007/Leetcode/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohitameta007/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohitameta007/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Mohitameta007/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Mohitameta007/Leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohitameta007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohitameta007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -294,6 +296,7 @@ Each problem contains:
 | [0020-valid-parentheses](https://github.com/Mohitameta007/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Mohitameta007/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Mohitameta007/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Mohitameta007/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Mohitameta007/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Mohitameta007/Leetcode/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/Mohitameta007/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -341,4 +344,8 @@ Each problem contains:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohitameta007/Leetcode/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Mohitameta007/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
