@@ -61,6 +61,7 @@ Each problem contains:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohitameta007/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Mohitameta007/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Mohitameta007/Leetcode/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/Mohitameta007/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohitameta007/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohitameta007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Mohitameta007/Leetcode/tree/master/0605-can-place-flowers) |
@@ -297,6 +298,7 @@ Each problem contains:
 | [0155-min-stack](https://github.com/Mohitameta007/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Mohitameta007/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Mohitameta007/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Mohitameta007/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Mohitameta007/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Mohitameta007/Leetcode/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/Mohitameta007/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -348,4 +350,5 @@ Each problem contains:
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mohitameta007/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Mohitameta007/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
