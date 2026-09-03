@@ -1,41 +1,38 @@
 class Solution {
 public:
-    vector<int> asteroidCollision(vector<int>& asteroids) {
+    vector<int> asteroidCollision(vector<int>& nums) {
         stack<int> st;
         vector<int> ans;
-        int i = 0;
-        while(i < asteroids.size())
+        bool destroyed = false;
+        for(int i = 0 ; i < nums.size() ; i++)
         {
-            bool destroyed = false;
-            if(st.empty()) st.push(asteroids[i]);
-
-            else if(asteroids[i] < 0 && st.top() > 0)
-            {
-                int size = abs(asteroids[i]);
-                while(!st.empty() && st.top() > 0)
-                {
-                    if(st.top() < size)
-                    {
-                        st.pop();
-                    }
-                    else if(st.top() == size) 
-                    {
-                        destroyed = true;
-                        st.pop();
-                        break;
-                    }
-                    else 
-                    {
-                        destroyed = true;
-                        break;
-                    }
-                }
-                if(!destroyed) st.push(asteroids[i]);
-            }
+            destroyed = false;
+            if(st.empty()) st.push(nums[i]);
+            else if(nums[i] >= 0) st.push(nums[i]);
             else{
-                st.push(asteroids[i]);
+                while(!st.empty())
+                {
+                    if(st.top() > 0 && st.top()+nums[i] < 0) st.pop();
+                    else if(st.top() + nums[i] > 0) 
+                    {
+                        destroyed = true;
+                        break;
+                    }
+                    else if(st.top() + nums[i] == 0)
+                    {
+                        st.pop();
+                        destroyed = true;
+                        break;
+                    } 
+                    else
+                    {
+                        destroyed = true;
+                        st.push(nums[i]);
+                        break;
+                    } 
+                }
+                if(!destroyed) st.push(nums[i]);
             }
-            i++;
         }
 
         while(!st.empty())
@@ -43,7 +40,6 @@ public:
             ans.push_back(st.top());
             st.pop();
         }
-
         reverse(ans.begin() , ans.end());
 
         return ans;
