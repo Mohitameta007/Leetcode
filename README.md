@@ -53,6 +53,7 @@ Each problem contains:
 | [0056-merge-intervals](https://github.com/Mohitameta007/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Mohitameta007/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Mohitameta007/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Mohitameta007/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Mohitameta007/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohitameta007/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohitameta007/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -317,6 +318,7 @@ Each problem contains:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Mohitameta007/Leetcode/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/Mohitameta007/Leetcode/tree/master/0342-power-of-four) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mohitameta007/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mohitameta007/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -362,4 +364,8 @@ Each problem contains:
 | [0042-trapping-rain-water](https://github.com/Mohitameta007/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Mohitameta007/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mohitameta007/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Mohitameta007/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
