@@ -1,29 +1,25 @@
-void solve(vector<int> nums , vector<int> output , int index , vector<vector<int>>& ans)
-{
-    if(index >= nums.size())
-    {
-        ans.push_back(output);
-        return;
-    }
-
-    solve(nums , output , index+1 , ans);
-
-    int element = nums[index];
-    output.push_back(element);
-    solve(nums , output , index+1 , ans);
-
-}
-
 class Solution {
 public:
+    void sub(vector<int> nums , int indx , vector<vector<int>>& ans , vector<int>& subset)
+    {
+        if(indx >= nums.size())
+        {
+            ans.push_back(subset);
+            return;
+        }
+
+        subset.push_back(nums[indx]);
+        sub(nums , indx+1 , ans , subset);
+
+        subset.pop_back();
+        sub(nums , indx+1 , ans , subset);
+
+    }
+
     vector<vector<int>> subsets(vector<int>& nums) {
-
         vector<vector<int>> ans;
-        vector<int> output;
-        int index = 0;
-
-        solve(nums , output , index , ans);
+        vector<int> subset;
+        sub(nums , 0 , ans , subset);
         return ans;
-        
     }
 };
