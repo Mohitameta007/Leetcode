@@ -193,6 +193,7 @@ Each problem contains:
 | [0877-stone-game](https://github.com/Mohitameta007/Leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mohitameta007/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Mohitameta007/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Mohitameta007/Leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mohitameta007/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Mohitameta007/Leetcode/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohitameta007/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -350,6 +351,7 @@ Each problem contains:
 | ------- |
 | [0050-powx-n](https://github.com/Mohitameta007/Leetcode/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/Mohitameta007/Leetcode/tree/master/0342-power-of-four) |
+| [1922-count-good-numbers](https://github.com/Mohitameta007/Leetcode/tree/master/1922-count-good-numbers) |
 ## Design
 |  |
 | ------- |
