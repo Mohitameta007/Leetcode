@@ -290,6 +290,7 @@ Each problem contains:
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohitameta007/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohitameta007/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/Mohitameta007/Leetcode/tree/master/3174-clear-digits) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Mohitameta007/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Brainteaser
 |  |
 | ------- |
@@ -325,6 +326,7 @@ Each problem contains:
 | ------- |
 | [0078-subsets](https://github.com/Mohitameta007/Leetcode/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/Mohitameta007/Leetcode/tree/master/0342-power-of-four) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Mohitameta007/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mohitameta007/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mohitameta007/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Heap (Priority Queue)
@@ -375,6 +377,7 @@ Each problem contains:
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Mohitameta007/Leetcode/tree/master/0078-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Mohitameta007/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Geometry
 |  |
 | ------- |
