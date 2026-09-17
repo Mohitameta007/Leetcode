@@ -5,7 +5,7 @@ public:
     {
         if(target == 0)
         {
-            if(target == 0) ans.push_back(temp);
+            ans.push_back(temp);
             return;
         }
         if(indx == nums.size()) return;
@@ -17,7 +17,6 @@ public:
             temp.pop_back();
         }
         combination(nums , indx+1 , target , temp , ans);
-
 
     }
 
