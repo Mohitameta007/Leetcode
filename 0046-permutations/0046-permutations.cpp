@@ -1,31 +1,25 @@
 class Solution {
 public:
 
-    void perm(vector<int>& nums , vector<int>& temp , vector<vector<int>>& ans , vector<bool>& used)
+    void perm(vector<int>& nums , int indx , vector<vector<int>>& ans)
     {
-        if(temp.size() == nums.size())
+        if(indx == nums.size())
         {
-            ans.push_back(temp);
+            ans.push_back(nums);
             return;
         }
-        for(int i = 0 ; i < nums.size() ; i++)
+        for(int i = indx ; i < nums.size() ; i++)
         {
-            if(used[i] != true)
-            {
-                temp.push_back(nums[i]);
-                used[i] = true;
-                perm(nums , temp , ans , used);
-                used[i] = false;
-                temp.pop_back();
-            }
+            swap(nums[indx] , nums[i]);
+            perm(nums , indx+1 , ans);
+            swap(nums[indx] , nums[i]);
         }
     }
 
     vector<vector<int>> permute(vector<int>& nums) {
         vector<vector<int>>ans;
-        vector<bool> used(nums.size(), false);
-        vector<int> temp;
-        perm(nums , temp , ans , used);
+        int indx = 0;
+        perm(nums , indx , ans);
 
         return ans;
     }
