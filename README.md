@@ -91,6 +91,7 @@ Each problem contains:
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohitameta007/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mohitameta007/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mohitameta007/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mohitameta007/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mohitameta007/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mohitameta007/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mohitameta007/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -171,6 +172,7 @@ Each problem contains:
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohitameta007/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohitameta007/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mohitameta007/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mohitameta007/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mohitameta007/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Mohitameta007/Leetcode/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -240,6 +242,7 @@ Each problem contains:
 | ------- |
 | [1291-sequential-digits](https://github.com/Mohitameta007/Leetcode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohitameta007/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mohitameta007/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mohitameta007/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Linked List
 |  |
@@ -360,6 +363,7 @@ Each problem contains:
 | [0050-powx-n](https://github.com/Mohitameta007/Leetcode/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/Mohitameta007/Leetcode/tree/master/0342-power-of-four) |
 | [1922-count-good-numbers](https://github.com/Mohitameta007/Leetcode/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mohitameta007/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Design
 |  |
 | ------- |
