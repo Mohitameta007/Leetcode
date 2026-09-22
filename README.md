@@ -50,6 +50,7 @@ Each problem contains:
 | [0042-trapping-rain-water](https://github.com/Mohitameta007/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Mohitameta007/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Mohitameta007/Leetcode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Mohitameta007/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Mohitameta007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Mohitameta007/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Mohitameta007/Leetcode/tree/master/0056-merge-intervals) |
@@ -388,6 +389,7 @@ Each problem contains:
 | ------- |
 | [0039-combination-sum](https://github.com/Mohitameta007/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Mohitameta007/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Mohitameta007/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Mohitameta007/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mohitameta007/Leetcode/tree/master/0090-subsets-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Mohitameta007/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -395,4 +397,8 @@ Each problem contains:
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Mohitameta007/Leetcode/tree/master/0836-rectangle-overlap) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Mohitameta007/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
