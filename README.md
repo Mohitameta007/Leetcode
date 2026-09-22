@@ -46,6 +46,7 @@ Each problem contains:
 | [0018-4sum](https://github.com/Mohitameta007/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Mohitameta007/Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohitameta007/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Mohitameta007/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Mohitameta007/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Mohitameta007/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Mohitameta007/Leetcode/tree/master/0046-permutations) |
@@ -156,6 +157,7 @@ Each problem contains:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohitameta007/Leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Mohitameta007/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Mohitameta007/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mohitameta007/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Mohitameta007/Leetcode/tree/master/0202-happy-number) |
@@ -179,6 +181,7 @@ Each problem contains:
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Mohitameta007/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Mohitameta007/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Mohitameta007/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Mohitameta007/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -387,6 +390,7 @@ Each problem contains:
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Mohitameta007/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Mohitameta007/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Mohitameta007/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Mohitameta007/Leetcode/tree/master/0051-n-queens) |
@@ -400,5 +404,10 @@ Each problem contains:
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Mohitameta007/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Mohitameta007/Leetcode/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Mohitameta007/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
