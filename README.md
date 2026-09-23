@@ -328,6 +328,7 @@ Each problem contains:
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohitameta007/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mohitameta007/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mohitameta007/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Mohitameta007/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Mohitameta007/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Mohitameta007/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -416,4 +417,16 @@ Each problem contains:
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Mohitameta007/Leetcode/tree/master/0037-sudoku-solver) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mohitameta007/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mohitameta007/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mohitameta007/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
