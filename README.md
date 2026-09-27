@@ -78,6 +78,7 @@ Each problem contains:
 | [0735-asteroid-collision](https://github.com/Mohitameta007/Leetcode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Mohitameta007/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Mohitameta007/Leetcode/tree/master/0877-stone-game) |
+| [0941-valid-mountain-array](https://github.com/Mohitameta007/Leetcode/tree/master/0941-valid-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mohitameta007/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/Mohitameta007/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mohitameta007/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
