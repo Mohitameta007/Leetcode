@@ -392,6 +392,7 @@ Each problem contains:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohitameta007/Leetcode/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohitameta007/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
