@@ -298,6 +298,7 @@ Each problem contains:
 | [0131-palindrome-partitioning](https://github.com/Mohitameta007/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/Mohitameta007/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Mohitameta007/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/Mohitameta007/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/Mohitameta007/Leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohitameta007/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Mohitameta007/Leetcode/tree/master/0500-keyboard-row) |
@@ -412,6 +413,7 @@ Each problem contains:
 | [0078-subsets](https://github.com/Mohitameta007/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mohitameta007/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Mohitameta007/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/Mohitameta007/Leetcode/tree/master/0257-binary-tree-paths) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Mohitameta007/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Geometry
 |  |
@@ -440,6 +442,7 @@ Each problem contains:
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohitameta007/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohitameta007/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Mohitameta007/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Mohitameta007/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Mohitameta007/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohitameta007/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -454,6 +457,7 @@ Each problem contains:
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohitameta007/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohitameta007/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Mohitameta007/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Mohitameta007/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Mohitameta007/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohitameta007/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -470,6 +474,7 @@ Each problem contains:
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohitameta007/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohitameta007/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Mohitameta007/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Mohitameta007/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Mohitameta007/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohitameta007/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
