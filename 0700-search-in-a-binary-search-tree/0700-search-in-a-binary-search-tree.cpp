@@ -14,24 +14,10 @@ public:
 
     TreeNode* search(TreeNode* root, int target)
     {
-        TreeNode* start = nullptr;
-        queue<TreeNode*> q;
-        q.push(root);
-
-        while(!q.empty())
-        {
-            int size = q.size();
-            for(int i = 0 ; i < size ; i++)
-            {
-                TreeNode* node = q.front();
-                q.pop();
-                if(node->val == target) return node;
-
-                if(node->left) q.push(node->left);
-                if(node->right) q.push(node->right);
-            }
-        }
-        return nullptr;
+        if(!root) return nullptr;
+        if(target == root->val) return root;
+        if(target < root->val) return search(root->left , target);
+        return search (root->right , target);
     }
 
     TreeNode* searchBST(TreeNode* root, int val) {
