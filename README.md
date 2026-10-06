@@ -63,6 +63,7 @@ Each problem contains:
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mohitameta007/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Mohitameta007/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohitameta007/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Mohitameta007/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohitameta007/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Mohitameta007/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mohitameta007/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -123,6 +124,7 @@ Each problem contains:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohitameta007/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohitameta007/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Mohitameta007/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/Mohitameta007/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Mohitameta007/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/Mohitameta007/Leetcode/tree/master/0877-stone-game) |
 ## Prefix Sum
