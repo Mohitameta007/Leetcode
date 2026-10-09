@@ -567,4 +567,8 @@ Each problem contains:
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohitameta007/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mohitameta007/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
