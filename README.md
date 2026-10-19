@@ -103,6 +103,7 @@ Each problem contains:
 | [1539-kth-missing-positive-number](https://github.com/Mohitameta007/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Mohitameta007/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mohitameta007/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mohitameta007/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohitameta007/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Mohitameta007/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohitameta007/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -282,6 +283,7 @@ Each problem contains:
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mohitameta007/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohitameta007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohitameta007/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mohitameta007/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohitameta007/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohitameta007/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mohitameta007/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -329,6 +331,7 @@ Each problem contains:
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mohitameta007/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mohitameta007/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Mohitameta007/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mohitameta007/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Mohitameta007/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 ## Number Theory
 |  |
